@@ -15,7 +15,7 @@
       content="Matrix Admin Lite Free Version is powerful and clean admin dashboard template, inpired from Bootstrap Framework"
     />
     <meta name="robots" content="noindex,nofollow" />
-    <title>Matrix Admin Lite Free Versions Template by WrapPixel</title>
+    <title>Employee</title>
     <!-- Favicon icon -->
     <link
       rel="icon"
@@ -67,11 +67,7 @@
               <!-- Logo text -->
               <span class="logo-text ms-2">
                 <!-- dark Logo text -->
-                <img
-                  src="../assets/images/logo-text.png"
-                  alt="homepage"
-                  class="light-logo"
-                />
+                Employee
               </span>
             </a>
 
